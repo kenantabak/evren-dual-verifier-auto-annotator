@@ -10,5 +10,5 @@ Two-stage consensus auto-annotation engine combining **dataset-specific `YOLO26 
 
 ## Links
 
-- **EVREN Profile (328 Datasets · 126 Models):** [Kenan Tabak (`@u19979974710e`)](https://evren.ssyz.org.tr/users/u19979974710e)
+- **EVREN Profile (342 Datasets · 140 Models):** [Kenan Tabak (`@u19979974710e`)](https://evren.ssyz.org.tr/users/u19979974710e)
 - **Hugging Face Hub (20 Models · 10 Dataset Suites · 3 Spaces):** [huggingface.co/kenantabak](https://huggingface.co/kenantabak)
